@@ -8,5 +8,5 @@ Note: In order to use webpack5 these projects are generated using the latest alp
 ```
 npm install
 npm run bootstrap
-npm run serve
+npm start
 ```

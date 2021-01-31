@@ -1,7 +1,6 @@
 {
   "name": "vue2-webpack-federation",
   "private": true,
-
   "scripts": {
     "bootstrap": "lerna bootstrap",
     "start": "lerna run serve --parallel"

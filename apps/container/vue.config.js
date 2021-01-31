@@ -1,6 +1,9 @@
 const ModuleFederationPlugin = require("webpack/lib/container/ModuleFederationPlugin");
 
 module.exports = {
+  devServer: {
+    open: true
+  },
   configureWebpack: {
     plugins: [
       new  ModuleFederationPlugin({
